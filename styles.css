@@ -1,1 +1,29 @@
+body{
+/* 	background:whitesmoke; */
+}
+.container {
+      width: 80%;
+      height: 600px;
+      background-color: whitesmoke;
+      margin: 10px auto;
+      display: flex;
+	padding: 20px 10px;
+    }
 
+    .text {
+      line-height: 1;
+      padding: 0px 40px;
+    }
+
+    .skills{
+      display: inline;
+    }
+span{
+	margin-left: 220px;
+}
+    .row1{
+      display: flex;
+    }
+.col2{
+	overflow:hidden;
+}
